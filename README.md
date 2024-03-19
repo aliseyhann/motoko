@@ -1,1 +1,1 @@
-basic to-do app in motoko for intro
+basic to-do app in motoko
